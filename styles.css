@@ -53,8 +53,8 @@ h1 {
 }
 
 p {
-  margin-left: 30px;
-  margin-right: 30px;
+  margin-left: 60px;
+  margin-right: 60px;
   text-align: justify;
 }
 
@@ -77,19 +77,20 @@ img {
 
 /*estas son las cajas interactivas, cuando pasas el mouse por encima se mueven un poquito y no sé porqué, lili :(((
 a fin de cuentas cumplen con lo que quería, pero igual me da un poquito de toc jajaja
-las quise poner así para que parecieran olas, como si al leer estuvieramos navegando el mar para encontrar América (pun intended otra vez)*/
+las quise poner así para que parecieran olas, como si al leer estuvieramos navegando el mar para encontrar América (pun intended otra vez) pero la verdad no puede
+quería que quedarán por franjas de color y traté de hacerlo poniendole números a los div pero se veía muy mal, entonces decidi no estresarme al respecto y lo dejé así que también se ve bien (ríe para no llorar)*/
 .caja1 {
   font-family: "Barlow", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #7c8bbf;
   background: #7c8bbf;
   margin-left: 80px;
   margin-right: 500px;
   margin-bottom: 20px;
   margin-top: 30px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -110,12 +111,12 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #5061b5;
   background: #5061b5;
   margin-left: 200px;
   margin-right: 400px;
   margin-bottom: 20px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -136,12 +137,12 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #7c8bbf;
   background: #7c8bbf;
   margin-left: 300px;
   margin-right: 300px;
   margin-bottom: 20px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -162,12 +163,12 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #5061b5;
   background: #5061b5;
   margin-left: 400px;
   margin-right: 200px;
   margin-bottom: 20px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -188,12 +189,12 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #7c8bbf;
   background: #7c8bbf;
   margin-left: 500px;
   margin-right: 100px;
   margin-bottom: 20px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -214,12 +215,12 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #2c3db7;
   background: #2c3db7;
   margin-left: 600px;
   margin-right: 20px;
   margin-bottom: 20px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -240,12 +241,12 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #0010be;
   background: #0010be;
   margin-left: 500px;
   margin-right: 100px;
   margin-bottom: 20px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -266,12 +267,12 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #2c3db7;
   background: #2c3db7;
   margin-left: 400px;
   margin-right: 200px;
   margin-bottom: 20px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -292,12 +293,12 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #0010be;
   background: #0010be;
   margin-left: 300px;
   margin-right: 300px;
   margin-bottom: 20px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -318,12 +319,12 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
+  text-align: center;
   color: #2c3db7;
   background: #2c3db7;
   margin-left: 80px;
   margin-right: 500px;
   margin-bottom: 20px;
-  overflow: hidden;
   padding: 20px;
   border-radius: 15px;
 }
@@ -339,4 +340,5 @@ las quise poner así para que parecieran olas, como si al leer estuvieramos nave
   color: white; 
 } 
 
-/*espero no te hayas aburrido viendo ese montón de líneas del mismo código pero con colores y margenes diferentes, jajajajaj*/
+/*espero no te hayas aburrido viendo ese montón de líneas del mismo código pero con colores y margenes diferentes, jajajajaj
+di lo mejor de mí, espero se vea bien cuando lo abras :(((*/
