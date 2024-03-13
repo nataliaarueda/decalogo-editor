@@ -73,3 +73,254 @@ ol {
 img {
   width: 100%;
 }
+
+.caja1 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 80px;
+  margin-right: 500px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja1:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja1:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
+
+.caja2 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 200px;
+  margin-right: 400px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja2:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja2:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
+
+.caja3 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja3:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja3:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
+
+.caja4 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 400px;
+  margin-right: 200px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja4:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja4:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
+
+.caja5 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 500px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja5:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja5:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
+
+.caja6 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 600px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja6:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja6:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
+
+.caja7 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 500px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja7:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja7:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
+
+.caja8 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 400px;
+  margin-right: 200px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja8:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja8:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
+
+.caja9 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja9:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja9:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
+
+.caja10 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #0010be;
+  background: #0010be;
+  margin-left: 80px;
+  margin-right: 500px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.caja10:hover { 
+  padding: 30px; 
+  background: rgb(224, 234, 250); 
+  color: #0010be; 
+} 
+.caja10:active { 
+  padding: 30px; 
+  background: rgb(163, 11, 11); 
+  color: white; 
+} 
